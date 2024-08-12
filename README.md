@@ -1,4 +1,4 @@
-## Hi there 👋
+### Get to know me 👋
 
 <!--
 **shigaraki0/shigaraki0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently creating custom scripts to enhance my Linux-driven homelab security!
+- 🌱 I’m currently studying for the Practical Network Penetration Tester Exam
+- 💬 Ask me about Linux Distributions, Server Hardening and Shell Scripting
+- ⚡ Fun fact: Cosmic Desktop will be cool (primary language: Rust), looking forward to test it on Fedora
