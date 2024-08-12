@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently creating custom scripts to enhance my Linux-driven homelab security!
 - 🌱 I’m currently studying for the Practical Network Penetration Tester Exam
-- 💬 Ask me about Linux Distributions, Server Hardening and Shell Scripting
+- 💬 Ask me about: Linux Distributions, Server Hardening and Shell Scripting
 - ⚡ Fun fact: Cosmic Desktop will be cool (primary language: Rust), looking forward to test it on Fedora
