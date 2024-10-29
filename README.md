@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently creating custom scripts to enhance my Linux-driven homelab security!
-- 🌱 I’m currently studying for the Practical Junior Malware Researcher Certification
+- 🌱 I’m currently studying for the Kubernetes Administrator Certification
 - 💬 Ask me about: Linux Distributions, Server Hardening and Shell Scripting
-- ⚡ Current Passion: Customizing and Testing Qubes OS 
+- ⚡ Current Passion: Tweaking and Testing Qubes OS 
