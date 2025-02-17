@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently creating custom scripts, deploying VMs and containers to enhance my Linux-driven homelab security
+- 🔭 I’m currently working as a DevOps Engineer with a strong focus on security
 - 💬 Ask me about: Linux Distributions, Server Hardening and Shell Scripting
 - 🌱 I’m contributing to Fedora Project, Qubes OS and ELISA Project
-- ⚡ Current passion: writing security tools in Golang 
+- ⚡ Passion: writing security tools in Golang and \
+     deploying VMs/containers to enhance my Linux \
+     homelab security
