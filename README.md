@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as a DevOps Engineer with a strong focus on security
 - 💬 Ask me about: Linux Distributions, Server Hardening and Shell Scripting
 - 🌱 I’m contributing to Fedora Project, Qubes OS and ELISA Project
-- ⚡ Passion: writing security tools in Golang, deploying VMs
+- ⚡ Passion: writing security tools in Golang, deploying VMs \
      and containers to enhance my Linux homelab security
