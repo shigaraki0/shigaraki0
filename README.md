@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently creating custom scripts to enhance my Linux-driven homelab security!
-- 🌱 I’m currently studying for the Kubernetes Administrator Certification
+- 🔭 I’m currently creating custom scripts, deploying VMs and containers to enhance my Linux-driven homelab security
 - 💬 Ask me about: Linux Distributions, Server Hardening and Shell Scripting
-- ⚡ Current Passion: Tweaking and Testing Qubes OS 
+- 🌱 I’m contributing to Fedora Project, Qubes OS and ELISA Project
+- ⚡ Current passion: writing security tools in Golang 
